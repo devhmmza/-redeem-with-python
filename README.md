@@ -1,2 +1,1 @@
-# -redeem-with-python
-50 Python projects progressing from simple scripts to advanced applications. This repo reflects my growth as a Python programmer focused on consistency, creativity, and real-world problem-solving.
+Welcome to redeem-with-python, a curated collection of 50 Python projects crafted during my rise as a Python programmer and AI enthusiast. From CLI tools and automation scripts to GUIs, APIs, and AI-powered applications, this repo reflects my philosophy: build, break, learn, repeat. Each project is a step forward in exploring the vast capabilities of Python — in web dev, data science, machine learning, cybersecurity, and more. This is not just a repository, it’s a roadmap of redemption, a tribute to hard work, and a future built with code.
